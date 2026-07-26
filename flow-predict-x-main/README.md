@@ -27,3 +27,5 @@ npm run dev
 - TypeScript
 - React
 - Tailwind CSS
+
+<!-- Maintained and imported under REVAPANDE <iamrevapande@gmail.com>. -->
