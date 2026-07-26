@@ -518,13 +518,6 @@ This project is licensed under the MIT License.
 
 ---
 
-# 👩‍💻 Authors
-
-**Reva Pande**  
-B.Tech CSE (AI), IGDTUW
-
----
-
 ## ⭐ If you found this project useful, don't forget to star the repository!
 
 **GitHub:** https://github.com/REVAPANDE/cityFlow_ai
